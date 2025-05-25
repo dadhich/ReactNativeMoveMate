@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'cocoapods' # We can try letting Bundler pick the latest cocoapods for Ruby 3.3.1
+# If 'cocoapods' gives issues, we can pin to '~> 1.15.0' like before,
+# but it's good to try the latest compatible first with a new Ruby.
